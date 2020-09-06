@@ -2,6 +2,10 @@
 
 # portal-web
 
+## 簡介
+
+2018年和同事利用閒暇時間學習vue做出的官網
+
 ## Project setup
 
 ```
